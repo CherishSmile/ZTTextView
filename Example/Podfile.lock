@@ -1,0 +1,16 @@
+PODS:
+  - ZTTextView (0.1.0)
+
+DEPENDENCIES:
+  - ZTTextView (from `../`)
+
+EXTERNAL SOURCES:
+  ZTTextView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZTTextView: de24a6e2a9f1b5e3cee0819e129d376ed42c6d61
+
+PODFILE CHECKSUM: f01eac03d6b51b401bbf446b7ac2d2326f2e36b6
+
+COCOAPODS: 1.10.1
