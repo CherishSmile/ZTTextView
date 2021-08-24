@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZTTextView'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of ZTTextView.'
 
   s.homepage         = 'https://github.com/CherishSmile/ZTTextView'
@@ -24,5 +24,4 @@ Pod::Spec.new do |s|
   
   s.source_files = 'ZTTextView/ZTTextView.framework/Headers/*.{h}'
   s.vendored_frameworks = 'ZTTextView/ZTTextView.framework'
-  s.public_header_files = 'ZTTextView/ZTTextView.framework/Headers/*.{h}'
 end
